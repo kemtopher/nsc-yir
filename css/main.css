@@ -1,0 +1,39 @@
+.background-container .bg-segment {
+  width: 100%;
+  height: 33.3333vh;
+}
+
+.background-container .bg-segment.index {
+  background: #fcd7b8;
+}
+.background-container .bg-segment.womxn {
+  background: #fff1de;
+}
+.background-container .bg-segment.illustrators {
+  background: #0a1772;
+}
+.background-container .bg-segment.spiritual {
+  background: #ddd3f3;
+}
+.background-container .bg-segment.blog {
+  background: #0f4d4d;
+}
+.background-container .bg-segment.health {
+  background: #fee3ba;
+}
+.background-container .bg-segment.nightsnack {
+  background: #c6d2cf;
+}
+.background-container .bg-segment.thanks {
+  background: #fff1de;
+}
+.nav-row {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 56px 42px;
+  display: flex;
+  justify-content: space-between;
+}
+.nav-row__btn {
+}
